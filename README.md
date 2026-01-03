@@ -73,19 +73,6 @@ I bridge the gap between **engineering and aesthetics**. With a mastery of the *
 
 ---
 
-### 📈 GitHub Ecosystem
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rokan108&show_icons=true&theme=tokyonight&title_color=EE6E4D&icon_color=EE6E4D&text_color=ffffff&bg_color=1c1917&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rokan108&theme=tokyonight&fire=EE6E4D&ring=EE6E4D&sideLabels=ffffff&currStreakLabel=EE6E4D&hide_border=true&background=1c1917" />
-</p>
-
-<p align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokan108&langs_count=8&theme=tokyonight&title_color=EE6E4D&text_color=ffffff&bg_color=1c1917&hide_border=true&layout=compact" />
-</p>
-
----
-
 ### 🏆 Recognitions
 - 🎓 **GDG Google Hackathon 2025** - Participant & Innovator
 - 📜 **ReactJS for Beginners** - Simplilearn Certified
